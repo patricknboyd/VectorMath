@@ -229,3 +229,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+VectorMath_Consumer/App.config
+VectorMath_Consumer/Program.cs
+VectorMath_Consumer/Properties/AssemblyInfo.cs
+VectorMath_Consumer/VectorMath_Consumer.csproj
